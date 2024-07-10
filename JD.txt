@@ -1,0 +1,45 @@
+CANNOT DO C2C
+
+ Description
+
+Looking for a seasoned Java/J2EE Developer Lead with 10+ years progressive industry experience
+
+ Bachelor’s degree or equivalent in Engineering, Computer Science, Management Information Systems, Computer Information Systems, or related
+ Analyzing, designing, and developing enterprise applications with Agile development methodology
+ Designing, building, and maintaining Mule Soft and J2EE based Integration and API platforms
+ Identify, analyze and develop Integration flows using Mule Connectors, Design Center and API Management
+ Assisting in web services development with associated skills using SOAP, REST and HTTP in a high stakes/high volume environment
+ Experience with Marklogic or other NoSQL Databases
+ Working knowledge of GIT Hub or similar environment
+ Working closely with product partners to on board the new functional requirements in the system;
+ Assisting with the integration into Mule Soft platform when necessary, setup CI/ CD routines, and configure Mule Soft runtimes;
+ Participating in code reviews and daily SCRUM;
+
+
+ Skills
+
+Java, rest api, j2ee, json, springboot, microservices, rest, api, javascript, spring
+
+ Top Skills Details
+
+Java,rest api,j2ee,json
+
+ Additional Skills & Qualifications
+
+Develop and support Java based application for CashPro Admin Projects
+
+ 10+ years of development experience in Java/J2EE
+ 5+ years of work experience in an Agile environment. Work history of participating in daily agile routines and estimation of stories with minimal direction
+
+
+Expertise in complex SQL and query plans
+
+ Experience Level
+
+Intermediate Level
+
+ About TEKsystems
+
+We're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.
+
+The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
